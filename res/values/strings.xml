@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Share Apk</string>
+    <string name="hello_world">About Us</string>
+       <string name="rateus">rate Us</string>
+    <string name="action_settings">Settings</string>
+     <string name="action_about">Refresh</string>
+       <string name="swipe">Swipe right to left to More Options</string>
+     
+<string name="text_move_demo_step_2">Refresh the list using this menu item</string>
+</resources>
